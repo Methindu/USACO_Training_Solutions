@@ -1,5 +1,5 @@
 """
-NAME: methind1
+NAME: redacted
 PROB: wormhole
 LANG: PYTHON3
 """
@@ -111,3 +111,4 @@ for arrangement in arrangements:
         answer += 1
 
 fout.write('%d\n' % (answer))
+
